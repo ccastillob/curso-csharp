@@ -1,0 +1,15 @@
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\bin\Debug\net6.0\CSharpSocialNetWorkManager.exe
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\bin\Debug\net6.0\CSharpSocialNetWorkManager.deps.json
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\bin\Debug\net6.0\CSharpSocialNetWorkManager.runtimeconfig.json
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\bin\Debug\net6.0\CSharpSocialNetWorkManager.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\bin\Debug\net6.0\CSharpSocialNetWorkManager.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.csproj.AssemblyReference.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.AssemblyInfoInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.AssemblyInfo.cs
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.csproj.CoreCompileInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\refint\CSharpSocialNetWorkManager.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.genruntimeconfig.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\ref\CSharpSocialNetWorkManager.dll
