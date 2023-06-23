@@ -1,0 +1,15 @@
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\bin\Debug\net6.0\CSharpCondicionales.exe
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\bin\Debug\net6.0\CSharpCondicionales.deps.json
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\bin\Debug\net6.0\CSharpCondicionales.runtimeconfig.json
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\bin\Debug\net6.0\CSharpCondicionales.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\bin\Debug\net6.0\CSharpCondicionales.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\CSharpCondicionales.csproj.AssemblyReference.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\CSharpCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\CSharpCondicionales.AssemblyInfoInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\CSharpCondicionales.AssemblyInfo.cs
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\CSharpCondicionales.csproj.CoreCompileInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\CSharpCondicionales.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\refint\CSharpCondicionales.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\CSharpCondicionales.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\CSharpCondicionales.genruntimeconfig.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCondicionales\obj\Debug\net6.0\ref\CSharpCondicionales.dll
