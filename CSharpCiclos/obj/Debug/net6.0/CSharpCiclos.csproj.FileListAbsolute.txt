@@ -1,0 +1,15 @@
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\bin\Debug\net6.0\CSharpCiclos.exe
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\bin\Debug\net6.0\CSharpCiclos.deps.json
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\bin\Debug\net6.0\CSharpCiclos.runtimeconfig.json
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\bin\Debug\net6.0\CSharpCiclos.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\bin\Debug\net6.0\CSharpCiclos.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\CSharpCiclos.csproj.AssemblyReference.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\CSharpCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\CSharpCiclos.AssemblyInfoInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\CSharpCiclos.AssemblyInfo.cs
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\CSharpCiclos.csproj.CoreCompileInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\CSharpCiclos.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\refint\CSharpCiclos.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\CSharpCiclos.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\CSharpCiclos.genruntimeconfig.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpCiclos\obj\Debug\net6.0\ref\CSharpCiclos.dll
