@@ -41,7 +41,7 @@ namespace CSharpSocialNetWorkManager.Models
                 Name = "Facebook",
                 Description = "Red social para intercambio de fotos, videos, pensamientos y debate",
                 Users = new List<User>(),
-                Groups = new List<string>(),
+                Groups = new List<string>() { "Programadores CSharp", "Amantes de la música", "Programadores Go"},
                 DateCreated = new DateTime(2010, 5, 01)
             });
         }
@@ -50,6 +50,50 @@ namespace CSharpSocialNetWorkManager.Models
 
         public List<SocialNetworkWithGroups> SocialNetworksWithGroups { get; set; }
 
+        public string GetSocialNetworkInformation<T>(T socialNetwork)
+        {
+
+            if (socialNetwork == null) return "";
+
+            StringBuilder stringBuilder = new StringBuilder();
+
+            var socialNetworkItem = socialNetwork as SocialNetwork;
+
+            stringBuilder.AppendLine($"Nombre: {socialNetworkItem.Name}");
+            stringBuilder.AppendLine($"Descripción: {socialNetworkItem.Description}");
+            stringBuilder.AppendLine($"Año de creación: {socialNetworkItem.DateCreated.Year}");
+
+            if (socialNetworkItem is SocialNetworkWithGroups)
+            {
+                var socialNetworkWithGroupsItem = socialNetwork as SocialNetworkWithGroups;
+                stringBuilder.AppendLine($"Grupos: {string.Join(",", socialNetworkWithGroupsItem.Groups)}");
+            }
+
+            return stringBuilder.ToString();
+        }
+
+        public string GetSocialNetworkStats<T>(T socialNetwork)
+        {
+
+            if (socialNetwork == null) return "";
+
+            StringBuilder stringBuilder = new StringBuilder();
+
+            var socialNetworkItem = socialNetwork as SocialNetwork;
+
+            stringBuilder.AppendLine($"Cantidad de usuarios: {socialNetworkItem.Users.Count}");
+            stringBuilder.AppendLine($"Promedio de edad: {socialNetworkItem.Users.Average(p => p.Age)}");
+            stringBuilder.AppendLine($"El usuario de mayor edad tiene: {socialNetworkItem.Users.Max(p => p.Age)} años");
+            stringBuilder.AppendLine($"El usuario de menor edad tiene: {socialNetworkItem.Users.Min(p => p.Age)} años");
+
+            if (socialNetworkItem is SocialNetworkWithGroups)
+            {
+                var socialNetworkWithGroupsItem = socialNetwork as SocialNetworkWithGroups;
+                stringBuilder.AppendLine($"Cantidad de grupos: {socialNetworkWithGroupsItem.Groups.Count}");
+            }
+
+            return stringBuilder.ToString();
+        }
 
     }
 }
