@@ -1,0 +1,15 @@
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\bin\Debug\net6.0\CSharpExcepciones.exe
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\bin\Debug\net6.0\CSharpExcepciones.deps.json
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\bin\Debug\net6.0\CSharpExcepciones.runtimeconfig.json
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\bin\Debug\net6.0\CSharpExcepciones.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\bin\Debug\net6.0\CSharpExcepciones.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\CSharpExcepciones.csproj.AssemblyReference.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\CSharpExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\CSharpExcepciones.AssemblyInfoInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\CSharpExcepciones.AssemblyInfo.cs
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\CSharpExcepciones.csproj.CoreCompileInputs.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\CSharpExcepciones.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\refint\CSharpExcepciones.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\CSharpExcepciones.pdb
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\CSharpExcepciones.genruntimeconfig.cache
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpExcepciones\obj\Debug\net6.0\ref\CSharpExcepciones.dll
