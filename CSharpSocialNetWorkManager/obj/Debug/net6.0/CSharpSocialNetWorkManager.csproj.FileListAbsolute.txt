@@ -13,3 +13,5 @@ C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\
 C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.pdb
 C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.genruntimeconfig.cache
 C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\ref\CSharpSocialNetWorkManager.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Proyectos\DemoConsola\CursoCsharp\CursoCsharp\CSharpSocialNetWorkManager\obj\Debug\net6.0\CSharpSocialNetWorkManager.csproj.CopyComplete

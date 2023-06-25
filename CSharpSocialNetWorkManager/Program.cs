@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using CSharpSocialNetWorkManager.Models;
+using CSharpSocialNetWorkManager.Utilities.Log;
 using System.Linq;
 
-var app = new AppManager();
+var app = new AppManager(new LogJson());
 
 Console.WriteLine($"Bienvenido a {app.AppTitle}");
 
